@@ -1,0 +1,10 @@
+.env
+.venv
+meetic_bot.log
+__pycache__/
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+# C extensions
+*.so        
+# Distribution / packaging
+.Python
